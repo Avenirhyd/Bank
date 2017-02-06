@@ -1,2 +1,2 @@
-# Welcome to the Bank
+# Welcome to Bank
 "My first repository on GitHub."
